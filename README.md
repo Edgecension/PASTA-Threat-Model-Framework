@@ -1,3 +1,3 @@
 # PASTA Threat Model Framework
 
-## Stages
+## Objective 
