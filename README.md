@@ -1,1 +1,3 @@
-# PASTA-Threat-Model-Framework
+# PASTA Threat Model Framework
+
+## Stages
